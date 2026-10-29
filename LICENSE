@@ -1,0 +1,78 @@
+﻿Forever Suite - Lizenz / License
+Fassung 1.0 vom 23.10.2026 / Version 1.0 of 2026-10-23
+
+Copyright (c) 2026 Mario "Dr. Snoelk" Röske. Alle Rechte vorbehalten. / All rights reserved.
+
+DEUTSCH
+
+Geltungsbereich: Diese Lizenz gilt für die gesamte Forever Suite, also alle
+Addons (ForeverCore, ForeverCharacter, ForeverQuest, ForeverFishing,
+ForeverGathering, ForeverNavigation, ForeverTabard) und den Forever Companion,
+mit allen enthaltenen Quelltexten, mitgelieferten Daten, Grafiken und sonstigen
+Ressourcen ("die Suite"). Sie gilt für alle Veröffentlichungen, denen diese
+Lizenz beiliegt.
+
+Du darfst die Suite kostenlos für dich privat nutzen: installieren, spielen,
+Daten exportieren.
+
+Ohne meine vorherige Erlaubnis ist nicht erlaubt:
+- die Suite oder Teile davon weiterzugeben, hochzuladen oder auf anderen
+  Plattformen (z. B. CurseForge, Wago, WoWInterface) zu veröffentlichen,
+- den Code zu verändern und veränderte Fassungen weiterzugeben,
+- Code oder mitgelieferte Daten in andere Projekte zu übernehmen,
+- die Suite gewerblich zu nutzen oder zu verkaufen.
+
+Eine Erlaubnis bekommst du formlos, frag einfach bei mir an.
+
+Deine eigenen Spieldaten: Daten, die die Suite beim Spielen für dich aufzeichnet
+(z. B. Fänge, Fundorte, Wege, Charakterdaten und Exporte), schränkt diese Lizenz
+nicht ein. Du darfst sie frei exportieren und weitergeben, auch über den
+Datenaustausch der Suite.
+
+Die Suite wird ohne jede Gewähr bereitgestellt, so wie sie ist. Für Schäden
+oder Datenverluste durch ihre Nutzung hafte ich nicht, soweit das gesetzlich
+zulässig ist.
+
+ENGLISH
+
+Scope: This license covers the entire Forever Suite, i.e. all addons
+(ForeverCore, ForeverCharacter, ForeverQuest, ForeverFishing, ForeverGathering,
+ForeverNavigation, ForeverTabard) and the Forever Companion, including all
+source code, bundled data, graphics and other resources ("the suite"). It
+applies to every release that ships with this license.
+
+You may use the suite free of charge for your own private use: install it,
+play with it, export your data.
+
+Without my prior permission you may not:
+- redistribute, upload or publish the suite or any part of it, including on
+  other platforms (e.g. CurseForge, Wago, WoWInterface),
+- modify the code and distribute modified versions,
+- reuse code or bundled data in other projects,
+- use the suite commercially or sell it.
+
+Permission is granted informally, just ask me.
+
+Your own game data: data the suite records for you while you play (e.g.
+catches, gathering spots, routes, character data and exports) is not
+restricted by this license. You may export and share it freely, including
+through the suite's data exchange.
+
+The suite is provided "as is", without warranty of any kind. To the extent
+permitted by law, I am not liable for any damage or data loss resulting from
+its use.
+
+FREMDKOMPONENTEN / THIRD-PARTY COMPONENTS
+
+Der Forever Companion enthält Fremdkomponenten. Sie stehen unter ihren eigenen
+Lizenzen und fallen nicht unter die Bedingungen oben; Liste und Lizenztexte in
+THIRD-PARTY-NOTICES.txt. Die Addons enthalten keine Fremdkomponenten.
+
+The Forever Companion ships with third-party components. They remain under
+their own licenses and are not covered by the terms above; see
+THIRD-PARTY-NOTICES.txt for the list and license texts. The addons contain no
+third-party components.
+
+World of Warcraft is a trademark of Blizzard Entertainment, Inc. This project
+is an unofficial fan project and is not affiliated with or endorsed by
+Blizzard Entertainment.
