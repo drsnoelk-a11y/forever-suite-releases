@@ -8,11 +8,9 @@ Addons für **World of Warcraft Forever**: Weltsuche, Navigation mit lernendem W
 
 ### 📖 Neu: Einsteigeranleitung
 
-**[Forever Suite – Schnellstart (HTML)](docs/forever-suite-schnellstart.html)**
+**[📖 Forever Suite – Einsteigeranleitung direkt ansehen](docs/forever-suite-schnellstart.md)**
 
-Die Anleitung erklärt mit kurzen Schritten **Rechtsklick-Kontextmenüs**, **Weltsuche** (z. B. `Alt+S` selbst belegen), **Navigation**, **Sammeln**, **Angeln**, **Quests** und **Datenaustausch**. Für ein PDF die HTML-Datei im Browser öffnen und **Drucken → Als PDF speichern** wählen.
-
-> GitHub zeigt HTML-Dateien in der Dateiansicht als Quelltext an. Zum Lesen die Datei über **Download raw file** herunterladen und im Browser öffnen.
+Die Anleitung erklärt **Rechtsklick-Kontextmenüs**, **Weltsuche**, **Navigation**, **Sammeln**, **Angeln**, **Quests** und **Datenaustausch**. Sie wird auf GitHub direkt formatiert angezeigt – auch auf dem Smartphone.
 
 ## Installation
 
