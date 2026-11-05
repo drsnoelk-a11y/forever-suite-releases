@@ -67,11 +67,37 @@ Am Rand der Minimap sitzen kleine **Gathering- und Fishing-Buttons**, die du ent
 > [!NOTE]
 > **Markierung ≠ aktive Route.** Die lila Raute aktiviert das Hervorheben und die Richtungshinweise zum nächsten bekannten Fundort. Sie startet **nicht** automatisch eine Navigationsroute. Für eine echte Route kannst du die **Weltsuche** und ihre Navigation nutzen. Die Randhinweise zeigen jeweils den **nächsten bekannten Punkt pro markierter Art** – nicht alle Vorkommen gleichzeitig.
 
-## 📜 5. Quest-Tracker
+## 📜 5. Quest-Tracker – Sortierung, Gebiete & Weghilfe
 
-- Der Quest-Tracker hält deine Aufgaben übersichtlich.
-- **Rechtsklick** auf Einträge für passende Aktionen.
-- Bei bekannten Questzielen kannst du die **Navigation** nutzen.
+Der Quest-Tracker zeigt offene Aufgaben, Ziele und Fortschritt übersichtlich an. Mit **`/fquest`** kannst du ihn öffnen.
+
+### 🔎 Ansicht und Sortierung umstellen
+
+Oben am Tracker sitzt ein **Filter-Symbol**. Ein Klick öffnet das Ansichtsmenü:
+
+- **Nach Zielgebiet:** Quests werden nach dem Gebiet ihres nächsten Ziels gruppiert. **Abgabebereite Quests** erscheinen gesammelt im Bereich **„Abgeben“** ganz oben.
+- **Nach Quest-Art:** Gruppiert beispielsweise Kampagnen-, Questlinien-, Tages-/Wochen-, Dungeon- und sonstige Quests. Auch hier stehen die **abgabebereiten Quests** im eigenen Bereich oben.
+- **Nach Questlog:** Zeigt die Gruppierung entsprechend den Rubriken des normalen WoW-Questlogs.
+
+**Wo bin ich gerade?** Dein **aktuelles Gebiet** wird im Tracker mit einer **goldgelben Hervorhebung und einem leuchtenden Rand links** gekennzeichnet. So findest du die Quests in deiner Umgebung schneller. Mit einem Klick auf eine Gebietsüberschrift kannst du die dortigen Quests ein- oder ausklappen.
+
+### 🖱️ Quest anklicken – was passiert?
+
+| Aktion | Ergebnis |
+|---|---|
+| **Linksklick** auf eine Quest | Öffnet bzw. schließt das **Quest-Detailfenster**. |
+| **Rechtsklick** auf eine Quest | Öffnet das **Kontextmenü** mit weiteren Aktionen. |
+| **Shift + Klick** auf eine Quest | Setzt oder entfernt den **Quest-Fokus**. |
+| **Klick auf das Fokus-Symbol** neben der Quest | Setzt oder entfernt ebenfalls den Fokus. |
+
+### 🧭 Quest-Details & Weg zum Ziel
+
+Im kleinen **Detailfenster** siehst du Questbeschreibung, Ziele und – sofern verfügbar – Belohnungen. **Unten steht die Weghilfe („Weg“) zum Questziel:** Sie kann die nötigen Reiseetappen anzeigen, etwa **zu Fuß, per Schiff, Tiefenbahn, Portal oder Flugroute**, soweit passende Daten bekannt sind.
+
+Wenn mehrere Wege möglich sind, kannst du dort zwischen einer **kostenlosen Route ohne Greifenflüge** und einer **schnelleren Variante mit eventuell kostenpflichtigen Flügen** wechseln. Mit dem **Navigieren-Symbol** lässt du dir, sofern eine Questmarkierung und ein Weg bekannt sind, die Route zusätzlich auf **Weltkarte und Minimap** anzeigen.
+
+> [!TIP]
+> **Kurz gesagt:** Oben sortieren, am **goldenen Rand** dein aktuelles Gebiet erkennen, eine Quest **links anklicken** und unten im Detailfenster nachschauen, **wie du zum Ziel kommst**.
 
 ## 🔄 6. Austausch mit anderen Spielern
 
