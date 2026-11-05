@@ -9,6 +9,30 @@
 > [!TIP]
 > **Der schnellste Einstieg:** Weltsuche auf eine Tastenkombination legen (z. B. **Alt+S**), nach einem Ort oder NPC suchen und ein Ziel für die Navigation auswählen.
 
+## 🪟 Grundbedienung – Fenster, Icons und Größe
+
+Die meisten Fenster der Forever Suite folgen denselben Bedienregeln:
+
+- **Fenster verschieben:** Mit gedrückter linker Maustaste am **Fenster bzw. seiner Kopfzeile** ziehen. Beim Quest-Tracker ist die **obere Zeile** der Griff zum Verschieben.
+- **Größe ändern:** Am kleinen **Größen-Griff unten rechts** ziehen. Bei normalen Modulfenstern kannst du so Breite und Höhe ändern.
+- **Auf Icon minimieren:** Oben rechts auf das **Minus (−)** klicken. Es bleibt ein kleines Symbol statt des großen Fensters.
+- **Icon frei platzieren:** Das minimierte Icon per **Linksklick ziehen**. **Linksklick auf das Icon** öffnet das Fenster wieder.
+- **Positionen bleiben erhalten:** Die Suite merkt sich Fensterpositionen, Iconpositionen und – wo angeboten – Fenstergrößen auch nach einem Neustart.
+- **Zahnrad (⚙️):** Öffnet direkt die Einstellungen des betreffenden Moduls.
+- **Fenster schließen (×):** Schließt die Anzeige, ohne das komplette Addon zu deinstallieren oder deine gesammelten Daten zu löschen. Bei Bedarf das Fenster über die Moduleinstellungen oder den jeweiligen Befehl wieder einblenden.
+- **Bildschirmrand-Schutz:** Beim Verschieben und Vergrößern hält die Suite Fenster innerhalb des sichtbaren Bildschirms, damit Größen-Griffe erreichbar bleiben.
+
+### 📜 Besonderheit: Quest-Tracker
+
+- **Unten rechts ziehen:** Passt die **Breite** und die **maximale Höhe** des Trackers an. Die tatsächliche Höhe wächst oder schrumpft weiterhin mit dem Inhalt – bis zu dieser Grenze.
+- **Rechtsklick auf den Größen-Griff unten rechts:** Setzt **nur die maximale Höhe zurück auf Automatik**. Deine **eingestellte Breite bleibt erhalten**.
+- **Goldenen Trenner zwischen „Abgeben“ und offenen Quests ziehen:** Verändert, wie viel Platz die abgabebereiten Quests bekommen.
+- **Rechtsklick auf diesen Trenner:** Stellt die **automatische Aufteilung** wieder her.
+- **Tracker gesperrt?** In den Quest-Einstellungen kannst du die **Sperre** aufheben, um ihn wieder zu verschieben oder seine Größe anzupassen.
+
+> [!TIP]
+> **Platz auf dem Bildschirm sparen:** Fenster einmal passend positionieren, dann über **−** minimieren und die kleinen Icons an eine freie Stelle ziehen. Die Anordnung merkt sich die Suite.
+
 ## 🖱️ 1. Rechtsklick & Weltsuche
 
 - **Rechtsklick** öffnet in vielen Fenstern ein **Kontextmenü** mit weiteren Aktionen.
