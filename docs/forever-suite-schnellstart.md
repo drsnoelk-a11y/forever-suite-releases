@@ -26,9 +26,14 @@
 
 ## 🌿 3. Sammeln (Gathering)
 
-- Entdeckte **Kräuter- und Erzvorkommen** werden gespeichert und auf der Karte wiedergefunden.
-- Über die **Weltsuche** gezielt nach Rohstoffen suchen, zum Beispiel `Kupfererz`.
-- **Wichtig für automatische Sichtungen:** Die Option **Soft Interact** ist im Gathering-Modul standardmäßig aktiv und setzt die notwendige WoW-Interaktion. Falls beim Vorbeilaufen keine Vorkommen erfasst werden: `/fgather` öffnen und in den **erweiterten Gathering-Einstellungen** diese Option prüfen.
+> [!TIP]
+> **Jeder kann beim Kartieren helfen – auch ohne Bergbau oder Kräuterkunde!** Wenn du an bekannten Erzadern oder Kräutern vorbeiläufst, erkennt Gathering diese über **Soft Interact** in der Nähe und merkt sich die Sichtung. Du musst dafür nichts abbauen oder pflücken.
+
+- **Automatisch beim Vorbeilaufen:** Bekannte Vorkommen in Interaktionsreichweite (ungefähr 10–15 Meter im Sichtbereich) werden als **Sichtung** erfasst – auch wenn dein Charakter den benötigten Sammelberuf nicht gelernt hat.
+- **Fundorte für alle:** Eigene Sichtungen und gesammelte Fundorte können über den **Forever-Datenaustausch** mit anderen Suite-Nutzern geteilt werden, sofern der Austausch aktiviert und eine passende Verbindung vorhanden ist. So hilft auch ein Nicht-Sammler dabei, die gemeinsame Karte zu füllen.
+- **Karte und Suche:** Erkannte Kräuter- und Erzvorkommen erscheinen in den Gathering-Ansichten und können über die **Weltsuche** wiedergefunden werden, zum Beispiel mit `Kupfererz`.
+- **Standardmäßig aktiv:** In Gathering sind sowohl **Sichtungen erfassen** als auch die benötigte **Soft-Interact-Unterstützung** eingeschaltet. Wenn keine Vorkommen erkannt werden: `/fgather` öffnen und unter **Forever Suite → Gathering → Erweiterte Einstellungen** beide Optionen prüfen.
+- **Noch unbekannte Forever-Vorkommen:** Nicht jeder neue Pflanzentyp oder jede neue Erzader wird sofort allein durch Vorbeilaufen erkannt. Die Suite muss den Typ erst kennenlernen; dazu können eine erfolgreiche Sammlung oder Hinweise beim Anklicken/Tooltip nötig sein.
 
 ## 🎣 4. Angeln (Fishing)
 
