@@ -17,12 +17,18 @@
 - Suche nach **Orten, NPCs, Händlern, Lehrern, Questgebern, Rohstoffen, Spielern oder Gildenmitgliedern**.
 - Ein Ergebnis auswählen und, wenn verfügbar, **zum Ziel navigieren**.
 
-## 🧭 2. Navigation
+## 🧭 2. Navigation – wie ein Navi in der Minimap
 
-- Die Suite lernt beim Erkunden automatisch ein **Wegenetz**.
-- Suchtreffer oder andere Ziele über das Kontextmenü für die Navigation auswählen.
-- Je nach verfügbaren Informationen berücksichtigt die Navigation auch **Reiseverbindungen**.
-- **Neue Welt, neue Wege:** Zum Start sind noch nicht alle Routen bekannt. Das Netz wächst durch Erkundung.
+1. **Weltsuche öffnen:** Drücke deine selbst belegte Tastenkombination, empfohlen **`Alt+S`**, und suche nach einem Ort, NPC oder anderen Ziel.
+2. **Routenart auswählen:** Unten im Suchfenster gibt es den kleinen Umschalter **„Weg: kostenlos“ / „Weg: schnell“**. Ein Klick wechselt zwischen den beiden Modi. Die Wahl wird gespeichert; standardmäßig ist **kostenlos** ausgewählt.
+   - **🟢 Kostenlos:** Plant ohne kostenpflichtige Greifenflüge – zu Fuß und mit kostenlosen Verbindungen wie **Schiffen, Portalen oder Tiefenbahn**, sofern passende Verbindungen bekannt sind. Das kann länger dauern.
+   - **⚡ Schnell:** Bezieht **Flugverbindungen mit Greifen** ein, wenn diese bekannt und nutzbar sind. Sie **kosten Spielgold**, können die Reise aber verkürzen.
+3. **Ziel auswählen:** Klicke den passenden Suchtreffer an oder bestätige ihn mit **`Enter`**. Die Suite berechnet die Route. Das kleine **Kartensymbol** beim Treffer zeigt dagegen nur den Ort auf der Weltkarte.
+4. **Route folgen:** Auf der **Minimap** erscheint eine Folge von kleinen Navigationspunkten – ähnlich einer Routenführung in Google Maps oder Apple Karten. Sie folgt erkannten Wegen und zeigt das Ziel sowie, falls nötig, Etappen mit Schiff, Flug, Portal oder Tiefenbahn. **Orange** steht für bekannte Wege; **Rot** kennzeichnet unbekannte Abschnitte oder Übergänge.
+5. **Unterwegs:** Die Wegpunkte bewegen sich mit dir mit; zurückliegende Abschnitte verschwinden. Wenn du vom Weg abweichst, versucht die Suite, wieder anzuschließen oder einen besseren Weg zu finden.
+
+> [!TIP]
+> **Je mehr die Community kartiert, desto besser die Navigation.** Die Suite lernt aus den Laufwegen der Spieler und kann freigegebene Navigationsdaten über den Datenaustausch übernehmen. Dadurch werden die Wege mit der Zeit genauer. Zu Beginn von Forever fehlen noch Strecken oder Verbindungen; die Routenführung ist daher **nicht überall so vollständig wie bei einem fertigen Navigationsdienst**.
 
 ## 🌿 3. Sammeln (Gathering)
 
