@@ -41,6 +41,26 @@
 - **Angelmodus** im Fishing-Fenster einschalten. Die belegte Taste steuert je nach Situation **Auswerfen, Einholen oder erneutes Auswerfen** und kann einen Köder anwenden. Das ist eine **andere Belegung als die Weltsuche**.
 - Im Fishing-Fenster kannst du außerdem **Angelrute und Köder** auswählen. Gefangene Fische und Angelplätze werden erfasst; die Übersicht zeigt Fangdaten und bekannte Plätze.
 
+## 🗺️ Minimap-Buttons, Filter & Randhinweise
+
+Am Rand der Minimap sitzen kleine **Gathering- und Fishing-Buttons**, die du entlang des Minimap-Rands verschieben kannst. Sie haben dieselbe Grundbedienung:
+
+| Aktion | Wirkung |
+|---|---|
+| **Linksklick** auf Gathering- oder Fishing-Button | Schaltet die **Fundort-Flächen dieses Moduls** auf der Minimap **ein/aus**. Bei ausgeschalteter Anzeige wird das Symbol grau. |
+| **Rechtsklick** | Öffnet das **Kontextmenü mit Filtern**. Bei Gathering kannst du **Kräuter, Erze und einzelne Sorten**, bei Fishing **Fisch- bzw. Fundkategorien und einzelne Arten** ein- oder ausblenden. |
+| **Ziehen** | Verschiebt den jeweiligen Button am Rand der Minimap. |
+
+### 💜 Lila Raute: interessante Fundorte hervorheben
+
+1. Öffne das **Gathering-Fenster** mit `/fgather` oder das **Fishing-Fenster** mit `/ffish`.
+2. **Klicke auf die Raute** neben der gewünschten Erz-, Kräuter- oder Fischart (bei Fishing auch über die Markierung auf der Weltkarten-Übersicht). Die farbige Raute bedeutet **markiert**.
+3. Die markierte Art wird **farblich hervorgehoben**. Liegt ihr nächster bekannter Fundort **außerhalb des sichtbaren Minimap-Ausschnitts**, erscheint am **Minimap-Rand ein kleines Symbol** in seiner Richtung.
+4. **Mit der Maus über das Randsymbol** fahren: Es zeigt die Art und die ungefähre Entfernung zum nächsten bekannten Fundbereich. Beim Weiterlaufen bzw. Drehen passt sich die Richtung an.
+
+> [!NOTE]
+> **Markierung ≠ aktive Route.** Die lila Raute aktiviert das Hervorheben und die Richtungshinweise zum nächsten bekannten Fundort. Sie startet **nicht** automatisch eine Navigationsroute. Für eine echte Route kannst du die **Weltsuche** und ihre Navigation nutzen. Die Randhinweise zeigen jeweils den **nächsten bekannten Punkt pro markierter Art** – nicht alle Vorkommen gleichzeitig.
+
 ## 📜 5. Quest-Tracker
 
 - Der Quest-Tracker hält deine Aufgaben übersichtlich.
