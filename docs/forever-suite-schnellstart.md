@@ -12,7 +12,8 @@
 ## 🖱️ 1. Rechtsklick & Weltsuche
 
 - **Rechtsklick** öffnet in vielen Fenstern ein **Kontextmenü** mit weiteren Aktionen.
-- Unter **ESC → Tastaturbelegung** kannst du der **Weltsuche** eine Tastenkombination zuweisen, zum Beispiel `Alt+S`. *Nicht automatisch voreingestellt!*
+- **Weltsuche auf `Alt+S` legen:** `ESC → Optionen → Tastaturbelegung → AddOns → Forever Suite → Weltsuche` öffnen, den Eintrag auswählen und **Alt+S** drücken. Das ist unsere Empfehlung, **keine vorbelegte Taste**. Falls der Menüpfad je nach WoW-Client anders aussieht, in der Tastaturbelegung nach **„Weltsuche“** suchen.
+- **Suche bedienen:** Begriff eingeben, `Tab` übernimmt die Wortergänzung, `↑`/`↓` wählen Treffer und `Enter` startet die Navigation. Das kleine **Kartensymbol** zeigt einen Ort auf der Karte, ohne direkt eine Route zu starten. Mit `Esc` leerst du die Suche bzw. schließt den Fokus. Das **Fernglas** verschiebt das Suchfeld.
 - Suche nach **Orten, NPCs, Händlern, Lehrern, Questgebern, Rohstoffen, Spielern oder Gildenmitgliedern**.
 - Ein Ergebnis auswählen und, wenn verfügbar, **zum Ziel navigieren**.
 
@@ -27,13 +28,13 @@
 
 - Entdeckte **Kräuter- und Erzvorkommen** werden gespeichert und auf der Karte wiedergefunden.
 - Über die **Weltsuche** gezielt nach Rohstoffen suchen, zum Beispiel `Kupfererz`.
-- Überprüfe die Spieleinstellung **„Mit Vorkommen in der Nähe interagieren“**, damit die automatische Erfassung funktioniert.
+- **Wichtig für automatische Sichtungen:** Die Option **Soft Interact** ist im Gathering-Modul standardmäßig aktiv und setzt die notwendige WoW-Interaktion. Falls beim Vorbeilaufen keine Vorkommen erfasst werden: `/fgather` öffnen und in den **erweiterten Gathering-Einstellungen** diese Option prüfen.
 
 ## 🎣 4. Angeln (Fishing)
 
-- Das Fishing-Modul bietet eine **Tastenfunktion zum Angeln**.
-- Fanginformationen und bekannte Angelplätze lassen sich, soweit vom jeweiligen Modul und Datenbestand unterstützt, wiederfinden.
-- Einstellungen und Tastenbelegung in WoW prüfen.
+- **Angeltaste festlegen:** Mit `/ffish` das **Fishing-Fenster** öffnen, auf die dort angezeigte **Taste** klicken und die gewünschte Taste oder Kombination drücken. `Esc` bricht die Belegung ab. Ist die Taste schon anderweitig vergeben, verlangt die Suite einen **zweiten Tastendruck zur Bestätigung**.
+- **Angelmodus** im Fishing-Fenster einschalten. Die belegte Taste steuert je nach Situation **Auswerfen, Einholen oder erneutes Auswerfen** und kann einen Köder anwenden. Das ist eine **andere Belegung als die Weltsuche**.
+- Im Fishing-Fenster kannst du außerdem **Angelrute und Köder** auswählen. Gefangene Fische und Angelplätze werden erfasst; die Übersicht zeigt Fangdaten und bekannte Plätze.
 
 ## 📜 5. Quest-Tracker
 
@@ -56,7 +57,7 @@
 2. Auf der [Release-Seite](https://github.com/drsnoelk-a11y/forever-suite-releases/releases/tag/v2.1) die ZIP-Datei unter **Assets** herunterladen.
 3. Entpacken und die enthaltenen **Forever…-Addonordner** in `Interface/AddOns` der **Forever-Spielinstallation** kopieren.
 4. Bei Updates alte Forever-Addonordner ersetzen. **SavedVariables nicht unbedacht löschen** – darin liegen deine Einstellungen und Daten.
-5. WoW starten, Addons prüfen und die **Weltsuche** auf eine passende Taste legen.
+5. WoW starten, Addons prüfen und die **Weltsuche auf Alt+S** legen (Anleitung oben). Für das Angeln die Taste **separat im Fishing-Fenster** festlegen.
 
 ---
 
